@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## My name is **Husain Mansuri**
 #### I am Front End Developer with 3+ years of experience
-- I am based in Mumbai & currently working as a UI developer in media.net
+- I am based in Mumbai & currently working as a UI developer in [media.net](media.net)
 - I have experience building **data dashboards**, **Internal Tools**, **Premium Sites** , **WordPress Sites**, **Highly Optimized Custom Templates(Webpages)**
 
 **Skills**: HTML / CSS / JS / React / Typescript / WordPress / PHP
