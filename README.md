@@ -1,16 +1,17 @@
 ### Hi there 👋
+## My name is **Husain Mansuri**
+#### I am Front End Developer with 3+ years of experience
+- I am based in Mumbai & currently working as a UI developer in media.net
+- I have experience building **data dashboards**, **Internal Tools**, **Premium Sites** , **WordPress Sites**, **Highly Optimized Custom Templates(Webpages)**
 
-<!--
-**HusainMansuri1/HusainMansuri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML / CSS / JS / React / Typescript / WordPress / PHP
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Building dashboards using React+TS & Ant design library 
+- 📫 How to reach me: mansurihusain99@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HusainMansuri1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/husain-mansuri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/mansurihusain99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11848651)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HusainMansuri1)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/HusainMansuri1)  
